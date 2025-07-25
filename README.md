@@ -11,7 +11,7 @@ This project implements an audio signal filtering pipeline using MATLAB. It read
 - **Custom Gain Control:** Applies adjustable gains to different frequency bands.
 - **Normalization:** Ensures the final output signal is scaled appropriately.
 - **Visualization:** Plots time-domain and frequency-domain representations.
-- **Playback:** Plays both the original and processed audio.
+- **Playback:** Plays both the original and processed audio...
 
 ## Files
 
