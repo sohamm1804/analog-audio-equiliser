@@ -1,5 +1,5 @@
 
-# Audio Signal Filtering in MATLAB
+## Audio Signal Filtering in MATLAB
 
 This project implements an audio signal filtering pipeline using MATLAB. It reads an input `.wav` file and applies low-pass, band-pass, and high-pass filtering, then combines the filtered signals and plays back the original and processed versions. It also visualizes the time and frequency domain characteristics of the signals.
 
