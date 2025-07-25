@@ -23,7 +23,7 @@ This project implements an audio signal filtering pipeline using MATLAB. It read
 1. Open `analog_converted.m` in MATLAB.
 2. Make sure the audio file is in the same directory as the script.
 3. Run the script.
-4. Observe the plots and listen to the audio playback.
+4. Observe the plots and listen to the audio playback..
 
 ## Requirements
 
